@@ -1,0 +1,12 @@
+#Items
+item.wood_hammer.name=Wood Hammer
+item.stone_hammer.name=Stone Hammer
+item.iron_hammer.name=Iron Hammer
+item.gold_hammer.name=Gold Hammer
+item.diamond_hammer.name=Diamond Hammer
+
+#Instruction Manual
+grim3212.manual.hammers.modinfo=This mod adds in hammers to Minecraft.
+grim3212.manual.hammers.subsection.hammers=Hammers
+grim3212.manual.hammers.subsection.hammers.page.recipes=Hammers are new tools that on use will destroy the block in one hit but not drop the items. So if you have a huge mountain of dirt to get rid of this will be very helpful.
+grim3212.manual.hammers.subsection.hammers.page.recipes.title=Recipes

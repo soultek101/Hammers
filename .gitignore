@@ -14,6 +14,10 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+# Others
+*.bat
+*.jar
+
 # =========================
 # Operating System Files
 # =========================
